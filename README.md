@@ -5,6 +5,7 @@
 
 - 🌱 I’m currently working on a smart irl farm using new technologies.
 - 💬 Ask me about ANYTHING!
-- 😄 Pronouns: HE/HIM.
-- ⚡ Not a Fun fact: i love music.
+- 🌸 Pronouns: HE/HIM.
+- ✨ Fun fact: Cherry Blossom is my fav emoji and the only one i use.
+- 🎶 Not a Fun fact: i love music IM IN F LOVE WITH MUSIC!
 
