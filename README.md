@@ -6,5 +6,5 @@
 - 💬 Ask me about ANYTHING!
 - 🌸 Pronouns: HE/HIM.
 - ✨ Fun fact: Cherry Blossom is my fav emoji and the only one i use.
-- 🎶 Not a Fun fact: i love music I LOVE Giant Rooks songs!
+- 🎶 Not a Fun fact: I LOVE Giant Rooks songs!
 
