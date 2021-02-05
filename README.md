@@ -1,5 +1,5 @@
 - Welcome Stranger Got Somethin' that might intrest ya  📕 📗 📘 📙
-- Im Ahmed El Mountassir AKA MAKAROV .
+- Im Ahmed El Mountassir AKA MAKAROV.
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Makarov Spotify Playing" width="350" />](https://open.spotify.com/user/sdeeoe3cb4i0ys3mj88symyl8)
 
