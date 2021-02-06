@@ -1,6 +1,6 @@
 - Welcome Stranger Got Somethin' that might intrest ya  📕 📗 📘 📙
 - Im Ahmed El Mountassir AKA MAKAROV.
-<img width="500px" src="https://i.imgur.com/OpaSwjE.gif">
+<img src="https://morebymahin.files.wordpress.com/2019/12/chiefblandargentineruddyduck-small.gif?w=672&h=386">
 
 ### Connect with me:
 [<img align="left" alt="Ahmed | Facebook" width="22px" src="https://www.freeiconspng.com/uploads/vintage-facebook-icon-png-17.png" />][Facebook]
