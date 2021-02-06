@@ -1,6 +1,7 @@
 - Welcome Stranger Got Somethin' that might intrest ya  📕 📗 📘 📙
 - Im Ahmed El Mountassir AKA MAKAROV.
-<img width="100px" src="https://i.imgur.com/OpaSwjE.gif">
+[<img width="800px" src="https://i.imgur.com/OpaSwjE.gif">]
+
 ### Connect with me:
 [<img align="left" alt="Ahmed | Facebook" width="22px" src="https://www.freeiconspng.com/uploads/vintage-facebook-icon-png-17.png" />][Facebook]
 [<img align="left" alt="Ahmed | Twitter" width="22px" src="https://www.searchpng.com/wp-content/uploads/2019/03/Twitter-Splash-715x715.png" />][Twitter]
@@ -14,7 +15,7 @@
 - ✨ Fun fact: Cherry Blossom is my fav emoji and the only one i use.
 - 🎶 Not a Fun fact: I LOVE Giant Rooks songs!
 
-<!--<img align="left" alt="Makarov's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vmakar0v&show_icons=true&hide_border=true" />
+<!--<img align="left" alt="Makarov's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vmakar0v&show_icons=true&hide_border=true" /> -->
 
 [Twitter]:https://twitter.com/Makarov_Vd
 [LinkedIn]:https://www.linkedin.com/in/ahmed-elmountassir
