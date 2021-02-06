@@ -13,7 +13,7 @@
 - ✨ Fun fact: Cherry Blossom is my fav emoji and the only one i use.
 - 🎶 Not a Fun fact: I LOVE Giant Rooks songs!
 
-<img align="left" alt="Makarov's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vmakr0v&show_icons=true&hide_border=true" />
+<img align="left" alt="Makarov's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vmakar0v&show_icons=true&hide_border=true" />
 
 [Twitter]:https://twitter.com/Makarov_Vd
 [LinkedIn]:https://www.linkedin.com/in/ahmed-elmountassir
