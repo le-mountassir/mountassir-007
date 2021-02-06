@@ -3,10 +3,10 @@
 <img src="https://media0.giphy.com/media/RGeIAO32lLNzK0Kzpr/giphy.gif" />
 
 ### Connect with me:
-[<img align="left" alt="Ahmed | Facebook" width="22px" src="https://www.freeiconspng.com/uploads/vintage-facebook-icon-png-17.png" />][Facebook]
-[<img align="left" alt="Ahmed | Twitter" width="22px" src="https://www.searchpng.com/wp-content/uploads/2019/03/Twitter-Splash-715x715.png" />][Twitter]
-[<img align="left" alt="Ahmed | LinkedIn" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1612569469~hmac=36e06c3d86dd3f711d6c7c91ce37f8d6" />][LinkedIn]
-[<img align="left" alt="Ahmed | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" />][Instagram]
+[<img align="left" alt="Ahmed | Facebook" width="22px" src="https://www.freeiconspng.com/uploads/vintage-facebook-icon-png-17.png" target="_blank"/>][Facebook]
+[<img align="left" alt="Ahmed | Twitter" width="22px" src="https://www.searchpng.com/wp-content/uploads/2019/03/Twitter-Splash-715x715.png" target="_blank"/>][Twitter]
+[<img align="left" alt="Ahmed | LinkedIn" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1612569469~hmac=36e06c3d86dd3f711d6c7c91ce37f8d6" target="_blank"/>][LinkedIn]
+[<img align="left" alt="Ahmed | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" target="_blank"/>][Instagram]
 <br />
 
 - 🌱 I’m currently developing my skills in web-dev
