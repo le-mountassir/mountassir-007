@@ -17,7 +17,7 @@
 
 <!--<img align="left" alt="Makarov's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vmakar0v&show_icons=true&hide_border=true" /> -->
 
-[Twitter]:https://twitter.com/Makarov_Vd
+[Twitter]:https://twitter.com/mountassir_007
 [LinkedIn]:https://www.linkedin.com/in/ahmed-elmountassir
-[Instagram]:https://www.instagram.com/makar0v_0/
-[Facebook]:https://www.facebook.com/vladimir.makar0v/
+[Instagram]:https://www.instagram.com/mountassir_007
+[Facebook]:https://www.facebook.com/amountassir007
