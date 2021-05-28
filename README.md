@@ -3,11 +3,13 @@
 <img src="https://media0.giphy.com/media/RGeIAO32lLNzK0Kzpr/giphy.gif" />
 
 ### Connect with me:
-[<img align="left" alt="Ahmed | Facebook" width="22px" src="https://www.freeiconspng.com/uploads/vintage-facebook-icon-png-17.png" />][Facebook]
-[<img align="left" alt="Ahmed | Twitter" width="22px" src="https://www.searchpng.com/wp-content/uploads/2019/03/Twitter-Splash-715x715.png" />][Twitter]
-[<img align="left" alt="Ahmed | LinkedIn" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1612569469~hmac=36e06c3d86dd3f711d6c7c91ce37f8d6" />][LinkedIn]
-[<img align="left" alt="Ahmed | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" />][Instagram]
-<br />
+<p align="center">
+    [<img alt="Twitter" alt="Ahmed | Instagram" src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"</a>][Instagram]
+    <a href="https://discord.gg/FBwVqq8fxK">
+    <img alt="Discord" src="https://img.shields.io/badge/Discord%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/yezz123/">   
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
 - 🌱 I’m currently developing my skills in web-dev
 - 💬 Ask me about ANYTHING!
