@@ -3,7 +3,7 @@
 <img src="https://media0.giphy.com/media/RGeIAO32lLNzK0Kzpr/giphy.gif" />
 
 ### Connect with me:
-<p align="center">
+<p>
     <a href="https://twitter.com/mountassir_007">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"</a>
     <!-- 
