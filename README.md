@@ -12,10 +12,9 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-- 🌱 I’m currently developing my skills in web-dev
 - 💬 Ask me about ANYTHING!
 - 🌸 Pronouns: HE/HIM.
-- ✨ Fun fact: Cherry Blossom is my fav emoji and the only one i use.
+- ✨ Fun fact: 🌸 & 🤝 are my fav emoji and the only ones i use.
 - 🎶 Not a Fun fact: I LOVE Giant Rooks songs!
 
 <!--<img align="left" alt="Makarov's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vmakar0v&show_icons=true&hide_border=true" /> -->
