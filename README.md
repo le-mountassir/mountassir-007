@@ -13,10 +13,7 @@
 </p>
 
 - 💬 Ask me about ANYTHING!
-- 🌸 Pronouns: HE/HIM.
-- ✨ Fun fact: 🌸 & 🤝 are my fav emoji and the only ones i use.
-- 🎶 Not a Fun fact: I LOVE Giant Rooks songs!
-
+- 🌸 Pronouns: cringe.
 <!--<img align="left" alt="Makarov's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vmakar0v&show_icons=true&hide_border=true" /> -->
 
 [Twitter]:https://twitter.com/mountassir_007
