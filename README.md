@@ -13,7 +13,7 @@
 </p>
 
 - 💬 Ask me about ANYTHING!
-- 🌸 Pronouns: cringe.
+- 🌸 Pronouns: (Sir/ Your Majesty).
 <!--<img align="left" alt="Makarov's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vmakar0v&show_icons=true&hide_border=true" /> -->
 
 [Twitter]:https://twitter.com/mountassir_007
