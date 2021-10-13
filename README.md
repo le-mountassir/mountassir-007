@@ -1,5 +1,5 @@
 - Welcome Stranger Got Somethin' that might intrest ya  📕 📗 📘 📙
-- I'am Ahmed El Mountassir you can call me mountassir.
+- I'am Ahmed El Mountassir you can call me Mountassir.
 <img src="https://media.giphy.com/media/udhngZK2IFTc4/giphy.gif" width='550' height='300'  />
 
 ### Connect with me:
@@ -13,7 +13,7 @@
 </p>
 
 - 💬 Ask me about ANYTHING!
-- 🌸 Pronouns: (Sir/ Your Majesty).
+- 🌸 Pronouns: (His Majesty).
 <!--<img align="left" alt="Makarov's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vmakar0v&show_icons=true&hide_border=true" /> -->
 
 [Twitter]:https://twitter.com/mountassir_007
