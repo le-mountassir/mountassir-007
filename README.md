@@ -1,6 +1,6 @@
 - Welcome Stranger Got Somethin' that might intrest ya  📕 📗 📘 📙
 - I'am Ahmed El Mountassir you can call me Mountassir.
-<img src="https://64.media.tumblr.com/tumblr_lolpmvz5PS1qlfu1ho1_500.gifv" width='550' height='300'  />
+<!-- <img src="https://64.media.tumblr.com/tumblr_lolpmvz5PS1qlfu1ho1_500.gifv" width='550' height='300'  /> -->
 
 ### Connect with me:
 <p>
